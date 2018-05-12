@@ -24,6 +24,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41457#The-German-Spy-System-from-Within
 gutenberg_issued: '2012-11-23'
 gutenberg_type: Text
 identifiers:
